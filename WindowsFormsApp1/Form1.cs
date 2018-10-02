@@ -47,7 +47,7 @@ namespace WindowsFormsApp1
             }
             catch
             {
-                label1.Text = "Not a number";
+                label1.Text = "Not a number"; 
             }
         }
     }
